@@ -1,0 +1,15 @@
+{
+  "name": "1-mocks",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "keywords": [],
+  "author": "Alexandre Oliveira",
+  "license": "ISC"
+}
