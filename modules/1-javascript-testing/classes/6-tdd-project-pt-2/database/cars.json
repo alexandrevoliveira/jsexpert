@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1afc2e47-c913-48a2-ab7d-3a3de16818b8",
+    "name": "Model T",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "fc3ad755-7fdb-46ac-80ab-34644abc530a",
+    "name": "Model S",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "f3d8162c-5e8b-4c07-8c07-b25fb50de7bf",
+    "name": "Challenger",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  }
+]
